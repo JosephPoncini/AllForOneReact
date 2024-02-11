@@ -6,7 +6,7 @@
 
 // Rebuilt my All For One Project in React. The All for One project fetches calls to APIs I previously made and returns a response
 
-// Both items fixed - JP (02-11-2024 11:45 am)
+// Both items fixed - JP (02-11-2024 12:15 pm) 
 
 // Peer Reviewed By: Kyle Ma
 
