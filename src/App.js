@@ -12,7 +12,7 @@ import ReverseItAlphaComponent from './components/ReverseItAlphaComponent';
 import ReverseItNumComponent from './components/ReverseItNumComponent';
 import SayHelloComponent from './components/SayHelloComponent';
 
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (

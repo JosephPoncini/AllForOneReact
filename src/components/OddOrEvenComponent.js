@@ -13,7 +13,7 @@ export default function OddOrEvenComponent() {
         setResult(response);
     }
     return (
-        <div className="bg-black h-screen w-screen  text-2xl lg:text-4xl">
+        <div className="bg-black h-screen w-screen  text-2xl lg:text-4xl py-10 overflow-auto">
             <div className="flex items-center w-full h-full flex-col px-10">
                 <div className="text-LaserGreen   text-center font-CutiveMono my-9">API: ODD OR EVEN</div>
                 <div className="flex flex-col lg:flex-row my-9">

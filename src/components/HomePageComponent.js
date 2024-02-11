@@ -92,7 +92,7 @@ export default function HomePageComponent() {
         <div>
 
 
-            <div className="bg-black h-screen w-screen">
+            <div className="bg-black h-screen w-screen py-10 overflow-auto">
 
                 <div className="flex items-center w-full h-full flex-col px-10">
                     <div className="text-LaserGreen text-2xl lg:text-4xl text-center font-CutiveMono flex-col ">
