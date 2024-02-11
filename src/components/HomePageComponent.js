@@ -118,7 +118,7 @@ export default function HomePageComponent() {
                     </div>
                     <div className="pb-10 flex justify-center items-center">
                         <Link to={currentURL}>
-                            <button type="button" className="redBtn text-3xl">Go</button>
+                            <button type="button" className="redBtn text-3xl ">Go</button>
                         </Link>
 
                     </div>
