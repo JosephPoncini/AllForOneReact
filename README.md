@@ -10,4 +10,4 @@
 
 // Peer Reviewed By: Kyle Ma
 
-// Peer Review: Project looks close to figma and everything I checked functions. Some discreptencies I noticed were that the figma has padding on the top which your project is missing and if you need to scroll on the screen you lose your background. Probably inserting overflow-auto will fix that latter issue. But honestly your project looks good. Once you fix those two items you should get a 100% on the assignment.
+// Peer Review: Project looks close to figma and everything I checked functions. Some discreptencies I noticed were that the figma has padding on the top which your project is missing and if you need to scroll on the screen you lose your background. Probably inserting overflow-auto will fix that latter issue. But honestly your project looks good. Once you fix those two items you should get a 100% on the assignment. 
