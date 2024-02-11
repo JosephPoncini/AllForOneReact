@@ -19,7 +19,7 @@ export default function ReverseItAlphaComponent() {
                 <div className="flex flex-col my-9">
                     <span className="text-LaserGreen   text-center font-CutiveMono">Give me a string of letters and/or numbers:</span>
                     <div className="flex justify-center pt-10">
-                        <input type="text" id="input1" className="inputField" onChange={(event) => setInputField1(event.target.value)}/>
+                        <input type="text" id="input1" className="longInputField" onChange={(event) => setInputField1(event.target.value)}/>
                     </div>
                 </div>
                 <button id="ExecuteBtn" type="button" className="executeBtn my-9" onClick={() => getResult()}>Execute</button>

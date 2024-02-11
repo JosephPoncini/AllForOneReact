@@ -24,7 +24,7 @@
       @apply block w-80 text-black text-center font-CutiveMono font-bold border border-gray-300 bg-gray-50 sm:text-xs lg:text-2xl focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500;
   }
   .longInputField{
-      @apply block w-1/2 text-black text-center font-CutiveMono font-bold border border-gray-300 bg-gray-50 sm:text-xs lg:text-2xl focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500;
+      @apply block w-[100%] md:w-[75%] text-wrap resize-y text-black text-center font-CutiveMono font-bold border border-gray-300 bg-gray-50 sm:text-xs lg:text-2xl focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500;
   }
 }
 
